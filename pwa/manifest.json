@@ -1,0 +1,25 @@
+{
+    "name": "admin_panel",
+    "short_name": "admin_panel",
+    "start_url": "/motogen-admin-panel-webApp/pwa/",
+     "scope": "/motogen-admin-panel-webApp/pwa/",
+    "display": "standalone",
+    "background_color": "#14213D",
+    "theme_color": "#14213D",
+    "description": "admin panel",
+    "orientation": "portrait",
+    "prefer_related_applications": false,
+     "icons": [
+        {
+            "src": "icons/motogen192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/motogen512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+        
+    ]
+}

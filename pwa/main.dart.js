@@ -7288,7 +7288,7 @@ ayg(){var s=0,r=A.P(t.uN),q,p,o,n,m
 var $async$ayg=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:m=new A.HX(A.c([],t.aj))
 m.b=A.aMO()
-p=A.aM7("http://172.20.10.4:3000",B.oc,A.az(["x-app-version","1.0.0"],t.N,t.z),B.oc)
+p=A.aM7("https://api.motogenapp.ir/v1",B.oc,A.az(["x-app-version","1.0.0"],t.N,t.z),B.oc)
 o=new A.MF(A.c([B.I4],t.i6))
 o.X(o,B.Tg)
 n=new A.a6r($,o,$,new A.a9A(51200),!1)

@@ -1,8 +1,8 @@
 {
     "name": "admin_panel",
     "short_name": "admin_panel",
-    "start_url": "/motogen-admin-panel-webApp/pwa/",
-     "scope": "/motogen-admin-panel-webApp/pwa/",
+    "start_url": "/",
+     "scope": "/",
     "display": "standalone",
     "background_color": "#14213D",
     "theme_color": "#14213D",
